@@ -1,2 +1,5 @@
-# game-tracker
-This application records owned board games and scores of game sessions.
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.

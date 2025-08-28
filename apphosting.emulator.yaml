@@ -1,0 +1,13 @@
+env:
+- variable: NEXT_PUBLIC_FIREBASE_API_KEY
+  value: AIzaSyBlVlfcbxjyPdVAlALtBHgJu2Vzn8TVKqo
+- variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+  value: gameshelf-2s38z.firebaseapp.com
+- variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+  value: gameshelf-2s38z
+- variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+  value: gameshelf-2s38z.firebasestorage.app
+- variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+  value: "389835458515"
+- variable: NEXT_PUBLIC_FIREBASE_APP_ID
+  value: 1:389835458515:web:4f377f99bb49da0cadd126
